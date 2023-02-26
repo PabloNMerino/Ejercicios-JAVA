@@ -1,0 +1,18 @@
+[2023-02-23 16:43:57] [ INFO ] [Animal:22] leonsito esta corriendo velozmente
+[2023-02-23 16:43:57] [ INFO ] [Animal:12] leonsito es mayor a 10 años y es alfa
+[2023-02-23 16:43:57] [ INFO ] [Animal:22] leonsita esta corriendo velozmente
+[2023-02-23 16:43:57] [ INFO ] [Animal:15] No es mayor a 10 años o no es alfa
+[2023-02-23 16:43:57] [ INFO ] [Animal:22] CrazyTiger esta corriendo velozmente
+[2023-02-23 16:43:57] [ INFO ] [Animal:12] CrazyTiger no es mayor a 10
+[2023-02-23 16:50:16] [ INFO ] [Animal:27] leonsito esta corriendo velozmente
+[2023-02-23 16:50:16] [ INFO ] [Animal:12] leonsito es mayor a 10 años y es alfa
+[2023-02-23 16:50:16] [ INFO ] [Animal:27] leonsita esta corriendo velozmente
+[2023-02-23 16:50:16] [ INFO ] [Animal:15] No es mayor a 10 años o no es alfa
+[2023-02-23 16:50:16] [ INFO ] [Animal:27] CrazyTiger esta corriendo velozmente
+[2023-02-23 16:50:16] [ INFO ] [Animal:12] CrazyTiger no es mayor a 10
+[2023-02-25 16:35:36] [ INFO ] [Animal:16] leonsito esta corriendo velozmente
+[2023-02-25 16:35:36] [ INFO ] [Animal:12] leonsito es mayor a 10 años y es alfa
+[2023-02-25 16:35:36] [ INFO ] [Animal:16] leonsita esta corriendo velozmente
+[2023-02-25 16:35:36] [ INFO ] [Animal:15] No es mayor a 10 años o no es alfa
+[2023-02-25 16:35:36] [ INFO ] [Animal:16] CrazyTiger esta corriendo velozmente
+[2023-02-25 16:35:36] [ ERROR] [Animal:11] Edad negativa: 
