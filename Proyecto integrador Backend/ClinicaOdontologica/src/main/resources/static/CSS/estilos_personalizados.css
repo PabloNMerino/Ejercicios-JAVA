@@ -1,0 +1,46 @@
+@import url("https://use.fontawesome.com/releases/v6.2.1/css/all.css");
+
+body {
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header-personalizado {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.texto-header{
+    color: white;
+}
+
+li:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    transition: 0.3s;
+}
+
+h2, th, td{
+    color: white;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.icono-linkedin, .icono-web, .icono-bootstrap{
+    font-size: 25px;
+}
+
+footer p {
+    font-size: 20px;
+}
+
+.enlace, .icono-linkedin, .icono-web {
+    text-decoration: none;
+    color: white;
+}

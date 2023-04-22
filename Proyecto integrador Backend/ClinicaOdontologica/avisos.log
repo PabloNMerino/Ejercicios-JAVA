@@ -1,0 +1,643 @@
+[2023-04-10 17:18:46] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-10 17:18:54] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-10 17:19:07] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-10 17:19:10] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-10 17:19:14] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-10 17:19:14] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-10 17:19:19] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-10 17:19:22] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-10 17:19:37] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-10 17:19:45] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-10 17:19:52] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-10 17:19:52] [ INFO ] [PacienteService:35] Solicitando eliminar paciente de id 1
+[2023-04-10 20:29:51] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-10 20:29:54] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 18:20:15] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 18:22:50] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 18:42:32] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 18:42:35] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 18:42:45] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id null
+[2023-04-19 18:43:34] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 18:46:22] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:28:34] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:29:02] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:30:39] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:30:56] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:36:05] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:38:57] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 19:39:07] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:40:12] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 19:40:19] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:41:11] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 19:41:18] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:45:30] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 19:45:47] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 19:47:42] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 19:47:47] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 19:58:06] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 19:58:16] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 20:49:10] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 20:49:21] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 20:49:52] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-19 20:50:04] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 20:50:13] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-19 20:50:20] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-19 20:50:20] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-19 20:50:24] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-19 20:50:26] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-19 20:50:26] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 16:30:55] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:31:00] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:31:10] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:31:14] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 16:31:14] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 16:31:21] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:31:28] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:31:30] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 16:31:35] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 16:31:35] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 2
+[2023-04-20 16:31:41] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:31:49] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:31:50] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 3
+[2023-04-20 16:31:50] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 3
+[2023-04-20 16:31:59] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:32:00] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:32:01] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:32:05] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 5
+[2023-04-20 16:32:05] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 5
+[2023-04-20 16:32:06] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 4
+[2023-04-20 16:32:08] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 4
+[2023-04-20 16:32:08] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 4
+[2023-04-20 16:32:09] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 4
+[2023-04-20 16:32:09] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 4
+[2023-04-20 16:32:12] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:32:13] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 4
+[2023-04-20 16:32:13] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 4
+[2023-04-20 16:32:14] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 16:32:14] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 16:40:26] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:40:31] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:40:39] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:40:50] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:40:58] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 16:40:58] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 16:45:06] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:45:17] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:47:05] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:47:20] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:47:22] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:47:37] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:47:40] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:47:49] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 16:47:49] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 16:47:49] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 16:47:49] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 16:55:16] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:55:21] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:55:23] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:55:36] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:55:37] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:55:45] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:55:46] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:55:48] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 16:55:48] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 16:55:49] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 16:55:49] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 16:55:50] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 3
+[2023-04-20 16:55:50] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 3
+[2023-04-20 16:58:38] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:58:43] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 16:58:45] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 16:58:57] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 16:59:02] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 16:59:02] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-20 16:59:06] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 16:59:06] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-20 17:08:40] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:08:47] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:08:48] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:08:50] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:08:50] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:11:35] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:11:40] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:11:42] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:11:44] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:11:44] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:13:30] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:13:33] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:13:35] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:13:36] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:13:36] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:13:37] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:13:38] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:13:39] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:13:39] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:13:39] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:13:39] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:13:40] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:18:40] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:18:45] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:18:47] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:19:02] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:19:02] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:21:52] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:21:57] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:21:58] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:22:00] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:22:00] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:25:15] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:25:19] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:25:21] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:25:22] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:25:22] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:25:35] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:25:37] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:25:39] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 17:25:39] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 17:29:42] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:29:49] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:29:54] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:29:56] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:29:57] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:29:57] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:31:36] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:31:40] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:31:42] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:31:43] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:31:43] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:35:11] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:35:27] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:35:28] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:35:34] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:35:36] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:35:38] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:35:46] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:35:46] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-20 17:35:47] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:35:50] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 17:35:50] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 17:35:55] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:35:55] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:40:48] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:40:57] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:41:41] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:41:47] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:41:48] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:41:51] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:43:52] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:44:00] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:44:02] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:44:05] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:44:05] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 17:44:08] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:44:10] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:44:33] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 17:44:42] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:44:44] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:44:45] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 3
+[2023-04-20 17:44:50] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 17:44:50] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 17:44:51] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 3
+[2023-04-20 17:44:51] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 3
+[2023-04-20 17:47:10] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:47:28] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:47:40] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 17:47:41] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:48:51] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 17:48:52] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 17:48:52] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 18:48:02] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:48:03] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:48:04] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:48:05] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:48:13] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 18:48:15] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:48:17] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:48:17] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:48:29] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:49:05] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 18:49:07] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:49:11] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:49:12] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:49:21] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:49:23] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:49:28] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:49:38] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 18:49:38] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 18:49:38] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 18:49:39] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:49:42] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 18:49:48] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:49:50] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:49:59] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:50:04] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:50:06] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:50:06] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:50:07] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:53:14] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:53:19] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 18:53:21] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:53:23] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:53:44] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 18:53:45] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:53:54] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:53:55] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:53:57] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:54:00] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:54:23] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 18:54:24] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:54:30] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:55:01] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 18:55:02] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:55:08] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:55:18] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 18:55:18] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 18:55:18] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 18:55:19] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:55:32] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 18:55:32] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 18:55:32] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 18:55:33] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:55:36] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 18:55:41] [ INFO ] [TurnoService:42] Solicitando actualizar turno de id 2
+[2023-04-20 18:55:43] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:55:46] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 18:55:46] [ INFO ] [TurnoService:48] Solicitando eliminar turno de id 2
+[2023-04-20 18:55:47] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:55:49] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:55:51] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 18:55:58] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 18:55:58] [ INFO ] [PacienteService:30] Solicitando actualizar paciente de id 1
+[2023-04-20 18:55:59] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:56:02] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 18:56:02] [ INFO ] [PacienteService:35] Solicitando eliminar paciente de id 1
+[2023-04-20 18:56:15] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:56:21] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:56:24] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:56:25] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:56:26] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:56:29] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:57:40] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:57:45] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 18:57:47] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:57:54] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 18:57:56] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:57:58] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:58:18] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 18:58:19] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:58:36] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 18:58:37] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:58:42] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:58:53] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 18:58:53] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 18:58:53] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 18:58:55] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:59:06] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 18:59:06] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 18:59:06] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 18:59:07] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:59:13] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 18:59:18] [ INFO ] [TurnoService:42] Solicitando actualizar turno de id 2
+[2023-04-20 18:59:19] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 18:59:21] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 18:59:21] [ INFO ] [TurnoService:48] Solicitando eliminar turno de id 2
+[2023-04-20 18:59:23] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 18:59:23] [ INFO ] [TurnoService:48] Solicitando eliminar turno de id 1
+[2023-04-20 18:59:25] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:59:26] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 18:59:26] [ INFO ] [PacienteService:35] Solicitando eliminar paciente de id 2
+[2023-04-20 18:59:27] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 18:59:27] [ INFO ] [PacienteService:35] Solicitando eliminar paciente de id 1
+[2023-04-20 18:59:29] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 18:59:30] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 18:59:30] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 18:59:30] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 18:59:30] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 18:59:33] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 18:59:34] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:15:01] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:15:02] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:15:03] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:15:06] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:15:27] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:15:29] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:16:12] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:18:56] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:18:56] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:18:58] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:18:58] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:19:04] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 23:19:05] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:21:02] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:21:18] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:21:20] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:23:00] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:23:15] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:23:16] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:25:20] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:25:36] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:25:38] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:25:56] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:28:00] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:28:13] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:28:15] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:28:18] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:28:25] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:28:25] [ INFO ] [PacienteService:30] Solicitando actualizar paciente de id 1
+[2023-04-20 23:28:27] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:29:46] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:30:03] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:30:04] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:30:36] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:30:50] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:30:52] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:31:25] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:31:26] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:31:47] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 23:31:47] [ INFO ] [PacienteService:35] Solicitando eliminar paciente de id 2
+[2023-04-20 23:35:54] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:36:08] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:36:09] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:36:49] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:36:51] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:36:57] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:37:09] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:37:09] [ INFO ] [PacienteService:30] Solicitando actualizar paciente de id 1
+[2023-04-20 23:37:11] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:37:13] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 23:37:17] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 23:37:17] [ INFO ] [PacienteService:30] Solicitando actualizar paciente de id 2
+[2023-04-20 23:37:18] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:37:25] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:37:27] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:37:34] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 23:37:36] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:37:43] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 23:37:45] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:37:46] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 23:37:48] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 23:37:48] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 2
+[2023-04-20 23:37:50] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:37:51] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 23:37:56] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 23:37:56] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-20 23:37:58] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:37:59] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 23:37:59] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 2
+[2023-04-20 23:38:01] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 23:38:01] [ INFO ] [OdontologoService:36] Solicitando eliminar odontologo de id 1
+[2023-04-20 23:38:07] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 23:38:08] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:38:15] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 23:38:17] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:38:19] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:38:20] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:38:21] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:38:31] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:38:31] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 3
+[2023-04-20 23:38:31] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 23:38:33] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:38:44] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 23:38:44] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 4
+[2023-04-20 23:38:44] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 23:38:46] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:38:51] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:39:00] [ INFO ] [TurnoService:42] Solicitando actualizar turno de id 2
+[2023-04-20 23:39:01] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:39:07] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 23:39:15] [ INFO ] [TurnoService:42] Solicitando actualizar turno de id 2
+[2023-04-20 23:39:17] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:39:23] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:39:27] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:39:32] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:39:34] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 23:39:36] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:39:40] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:39:45] [ INFO ] [TurnoService:42] Solicitando actualizar turno de id 2
+[2023-04-20 23:39:46] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:40:28] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:40:28] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:40:29] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:40:41] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:40:43] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:40:51] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:40:52] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:40:55] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 23:40:58] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:42:16] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:43:10] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:43:27] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:43:29] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:43:54] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-20 23:43:55] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:43:58] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:44:00] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 23:44:03] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:44:08] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 23:44:09] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:44:15] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-20 23:44:16] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:44:17] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 23:44:19] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 23:44:21] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:44:31] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:44:31] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-20 23:44:31] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 23:44:32] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:44:33] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:44:41] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 2
+[2023-04-20 23:44:41] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 23:44:41] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 23:44:43] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:44:45] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 23:44:46] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:44:49] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:44:56] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:46:12] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:47:06] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:47:08] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:47:14] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 23:47:26] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-20 23:47:26] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-20 23:47:26] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-20 23:47:27] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:47:30] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 3
+[2023-04-20 23:47:32] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-20 23:47:35] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-20 23:51:26] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:51:26] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:51:27] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:51:31] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:51:33] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:51:34] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-20 23:51:38] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:51:39] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:51:39] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:54:18] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-20 23:54:21] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-20 23:54:23] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:34:07] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:34:13] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:34:15] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:34:20] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:34:22] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:34:25] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:34:40] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-21 21:34:42] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:34:46] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:34:56] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:34:56] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 21:34:56] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:34:58] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:35:08] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:35:08] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:35:08] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:35:10] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:35:12] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-21 21:35:28] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-21 21:35:32] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-21 21:35:58] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-21 21:43:52] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:43:58] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:43:59] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:44:02] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:44:17] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-21 21:44:19] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:44:22] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:44:30] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:44:30] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 21:44:30] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:44:31] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:44:34] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:44:39] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:44:41] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:44:42] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:44:43] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:44:44] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:44:54] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:44:54] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:44:54] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:44:55] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:44:58] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-21 21:45:12] [ INFO ] [TurnoService:42] Solicitando actualizar turno de id 2
+[2023-04-21 21:45:13] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:45:15] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-21 21:47:39] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:47:44] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:47:45] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:47:47] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:48:03] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-21 21:48:05] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:48:06] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:48:11] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:48:12] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:48:14] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:48:23] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:48:23] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:48:23] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:48:25] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:48:36] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:48:36] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:48:36] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:48:37] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:49:06] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-21 21:50:05] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 1
+[2023-04-21 21:50:05] [ INFO ] [TurnoService:48] Solicitando eliminar turno de id 1
+[2023-04-21 21:50:21] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 11
+[2023-04-21 21:50:22] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:50:29] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:50:32] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:50:34] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:50:44] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:50:44] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:50:44] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:50:45] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:50:48] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:50:49] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:50:51] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:50:58] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:50:58] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 21:50:58] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:51:00] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:51:07] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 3
+[2023-04-21 21:51:07] [ INFO ] [TurnoService:48] Solicitando eliminar turno de id 3
+[2023-04-21 21:51:10] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 2
+[2023-04-21 21:51:10] [ INFO ] [TurnoService:48] Solicitando eliminar turno de id 2
+[2023-04-21 21:51:12] [ INFO ] [TurnoService:32] Solicitando buscar turno de id 4
+[2023-04-21 21:51:12] [ INFO ] [TurnoService:48] Solicitando eliminar turno de id 4
+[2023-04-21 21:52:46] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:52:47] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:52:48] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:56:33] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:56:34] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:56:35] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:57:15] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:57:20] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:57:21] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:57:25] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 21:57:27] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:57:29] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:57:34] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:57:34] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 2
+[2023-04-21 21:57:35] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 21:57:37] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:57:49] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-21 21:57:51] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:57:53] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:58:03] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:58:03] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 21:58:03] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:58:05] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:58:13] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:58:13] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 2
+[2023-04-21 21:58:13] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 21:58:14] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 21:58:15] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 21:58:16] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:58:20] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 21:58:20] [ INFO ] [PacienteService:30] Solicitando actualizar paciente de id 1
+[2023-04-21 21:58:21] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 22:04:20] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:04:25] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 22:04:27] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:04:31] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 22:04:32] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:04:33] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 22:04:45] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-21 22:04:47] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 22:04:48] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 22:04:51] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 22:04:51] [ INFO ] [PacienteService:30] Solicitando actualizar paciente de id 1
+[2023-04-21 22:04:53] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 22:04:55] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:04:56] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 22:05:00] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 22:05:00] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-21 22:05:02] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:05:03] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 22:05:11] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 22:05:11] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 22:05:11] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 22:05:12] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 22:09:27] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:09:31] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 22:09:33] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:09:38] [ INFO ] [OdontologoService:21] Solicitando crear nuevo odontologo
+[2023-04-21 22:09:39] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:09:40] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 22:09:46] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 22:09:46] [ INFO ] [OdontologoService:31] Solicitando actualizar odontologo de id 1
+[2023-04-21 22:09:48] [ INFO ] [OdontologoService:41] Solicitando listar todos los odontologo
+[2023-04-21 22:09:50] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 22:10:04] [ INFO ] [PacienteService:20] Solicitando crear nuevo paciente
+[2023-04-21 22:10:05] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 22:10:06] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 22:10:09] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 22:10:09] [ INFO ] [PacienteService:30] Solicitando actualizar paciente de id 1
+[2023-04-21 22:10:11] [ INFO ] [PacienteService:40] Solicitando listar todos los paciente
+[2023-04-21 22:10:12] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 22:10:20] [ INFO ] [PacienteService:25] Solicitando buscar paciente de id 1
+[2023-04-21 22:10:20] [ INFO ] [OdontologoService:26] Solicitando buscar odontologo de id 1
+[2023-04-21 22:10:20] [ INFO ] [TurnoService:26] Solicitando crear nuevo turno
+[2023-04-21 22:10:22] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
+[2023-04-21 22:10:26] [ INFO ] [TurnoService:53] Solicitando listar todos los turnos
